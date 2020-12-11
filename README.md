@@ -83,7 +83,7 @@
 
 
 
-                             Ch̥̳͍̭̆̔̈ͅr̟̘̭̺͔̀i͍̼͉̼̯ͤ̓ͤ̐̚s̞̟͚͂̇t̙͓̞̝̽̏ͬo̼ͫ̇̚pͫ̇h̩̙̾̀̆e̙̖̳̣̳͛̐͐r̞̞͆͗ ͎̯͇̻̎̽ͫͬͅJ͓̙̜̄ͬôh̼͈̦̮͆ͤ̒̓͋ṋ̭ͫ͂ͭ̐s̠͇̝̮ͯo̙̦ͣ̍͌̔̋ͅnͦͦͪ͛ͤ,͚̱̼̖͗͋ͦ̍͋ ̹̮͖̣͌̂͐͂̚N͇̯͕͔̑ͩ͗̊ͅe͚͎̪w̻̰̠̹̫ͧͣ͌̓ͧ ͇̒̌ͦ̊M̫̰͚̐e̻͈d̹͙̭͈̰ͮ̈́͑ͦi͎̯̲̾́ͭa͌̄͆ͤ ̘̗̣͉̓A̱̠͔ͨr̰t̎͒̋̀i̪̞̻ṣ̬͈̞͕̄ạ͉̱̫̪̌͆͒n͇͚̣̘̈ ̮̼̦́͒̀-̪̂͋̽̓ ̟͓̣̂@͔̌̓̓ͣs̗̙͖͂̋ͦ͂͛ͅp̥ͦ̓̔ͫͩk̤̹̳̰̂́ͧ͗m͇̺l̔̓
+                             Ch̥̳͍̭̆̔̈ͅr̟̘̭̺͔̀i͍̼͉̼̯ͤ̓ͤ̐̚s̞̟͚͂̇t̙͓̞̝̽̏ͬo̼ͫ̇̚pͫ̇h̩̙̾̀̆e̙̖̳̣̳͛̐͐r̞̞͆͗ ͎̯͇̻̎̽ͫͬͅJ͓̙̜̄ͬôh̼͈̦̮͆ͤ̒̓͋ṋ̭ͫ͂ͭ̐s̠͇̝̮ͯo̙̦ͣ̍͌̔̋ͅnͦͦͪ͛ͤ,͚̱̼̖͗͋ͦ̍͋ ̹̮͖̣͌̂͐͂̚N͇̯͕͔̑ͩ͗̊ͅe͚͎̪w̻̰̠̹̫ͧͣ͌̓ͧ ͇̒̌ͦ̊M̫̰͚̐e̻͈d̹͙̭͈̰ͮ̈́͑ͦi͎̯̲̾́ͭa͌̄͆ͤ ̘̗̣͉̓A̱̠͔ͨr̰t̎͒̋̀i̪̞̻ṣ̬͈̞͕̄ạ͉̱̫̪̌͆͒n͇͚̣̘̈ ̮̼̦́͒̀-̪̂͋̽̓ ̟͓̣̂@͔̌̓̓ͣs̗̙͖͂̋ͦ͂͛ͅp̥ͦ̓̔ͫͩk̤̹̳̰̂́ͧ͗m͇̺l̔̓
 
 
 
@@ -92,3 +92,60 @@
 
 </SPKML>
 //-->
+
+About
+
+A "Long Play Album" WebApp to begin with long term goal to create the definitive Digital-LongPlayAlbum container as a standardized means of distributing an album with full contents, not just the music but lyrics, liners, credits and more such as artwork and video content even...
+
+        <h3>Credits</h3>
+        <p>All songs written, performed and recorded by Christopher Johnson.  "The Flight" was recorded in Denver, Colorado in within three weeks in July and August of 2019 and was originally released on September 19, 2019.</p>
+      
+          <span class="copyright">LP ALBUM Container Software<br />Copyright © 2020 SPEKTRUM Creations</span>
+        
+      <p>  
+        Note: The goal of this software’s development is to create a
+  file type which acts as a container, that will be comprised of
+  standardized and open-sourced code for use by anyone upon the
+  release of the code, with accepting of terms by the user whom 
+  may be interested in contributing to extensible additions or 
+  more streamlined approaches, with a common goal to make this 
+  code for use by musicians as well as by listeners for the goal
+  of enhancing the ability of both parties to enjoy the final
+  product, either presenting or being presented, and providing 
+  a win-win scenario for everyone involved.  Please Contribute
+  if you can but note that any changes you make to the overall
+  code portion of these documents must be shared back to the 
+  group of developers located hereforth at either site below: </p>
+  
+      <a href="http://github.com/SPEKTRUM-Creations">github.com/SPEKTRUM-Creations</a>  
+         
+          <a href="http://SCDN.SPEKTRUMCreations.com">SCDN.SPEKTRUMCreations.com</a>
+
+<h3>MIT License<br />
+  ===========<h3>
+<br /><br />
+Copyright (c) 2020 Christopher Johnson (SPEKTRUMCreations.com)
+Permission is hereby granted, free of charge, to any person
+obtaining a copy of this software and associated documentation
+files (the "Software"), to deal in the Software without
+restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following
+conditions:
+<br /><br />
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+<br /><br />
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+</code>
+
+
