@@ -1,7 +1,6 @@
 # LPA-WebApp
  A "Long Play Album" WebApp to begin with long term goal to create the definitive Digital-LongPlayAlbum container as a standardized means of distributing an album with full contents, not just the music but lyrics, liners, credits and more such as artwork and video content even...
 
-  <!-- 
    <SPKML Type="Text/Html5" Codebase="./" Content="Web-Application" >
 
             ________________________________________________________________________
@@ -45,7 +44,7 @@
                 \/                  \/        \/                 \/                 \/ 
 
      ______ _______    _________      __      _________ _____   ____   ____  _____  _______ 
-`  ./ ___  |_   __ \  |_   ___  |    /  \    |  _   _  |_   _|.'    \.|_   \|_   _|/  ____ \.
+   ./ ___  |_   __ \  |_   ___  |    /  \    |  _   _  |_   _|.'    \.|_   \|_   _|/  ____ \.
   / ./   \_| | |__) |   | |_  \_|   / /\ \   |_/ | | \_| | | /  .--.  \ |   \ | | |  (___ \_|
   | |        |  __ /    |  _|  _   / ____ \      | |     | | | |    | | | |\ \| |  '.____^-.
   \ \.___.'\_| |  \ \_ _| |___/ |_/ /    \ \_   _| |_   _| |_\  \--'  /_| |_\   |_|\\____) |
@@ -91,19 +90,18 @@
             |=======================================================================|
 
 </SPKML>
-//-->
+
 
 About
 
 A "Long Play Album" WebApp to begin with long term goal to create the definitive Digital-LongPlayAlbum container as a standardized means of distributing an album with full contents, not just the music but lyrics, liners, credits and more such as artwork and video content even...
 
-        <h3>Credits</h3>
-        <p>All songs written, performed and recorded by Christopher Johnson.  "The Flight" was recorded in Denver, Colorado in within three weeks in July and August of 2019 and was originally released on September 19, 2019.</p>
+Credits
+All songs written, performed and recorded by Christopher Johnson.  "The Flight" was recorded in Denver, Colorado in within three weeks in July and August of 2019 and was originally released on September 19, 2019.</p>
       
-          <span class="copyright">LP ALBUM Container Software<br />Copyright © 2020 SPEKTRUM Creations</span>
+LP ALBUM Container Software<br />Copyright © 2020 SPEKTRUM Creations
         
-      <p>  
-        Note: The goal of this software’s development is to create a
+ Note: The goal of this software’s development is to create a
   file type which acts as a container, that will be comprised of
   standardized and open-sourced code for use by anyone upon the
   release of the code, with accepting of terms by the user whom 
@@ -120,7 +118,7 @@ A "Long Play Album" WebApp to begin with long term goal to create the definitive
       <a href="http://github.com/SPEKTRUM-Creations">github.com/SPEKTRUM-Creations</a>  
          
           <a href="http://SCDN.SPEKTRUMCreations.com">SCDN.SPEKTRUMCreations.com</a>
-
+<code>
 <h3>MIT License<br />
   ===========<h3>
 <br /><br />
