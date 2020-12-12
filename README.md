@@ -1,4 +1,74 @@
 # LPA-WebApp
+
+ 
+ Are you a developer? Join us for 
+ a fun set of projects being developed
+ by the team we will assemble through
+ both the SCDN.SPEKTRUMCreations.com/ 
+ website and the online community we 
+ will start posting our development 
+ project files to on the repositories 
+ located and/or mirrored at 
+ github.com/SPEKTRUM-Creations.  
+
+ Details will follow soon, so please 
+ stay tuned so you don't miss your 
+ chance to help design code using 
+ standard code to create new standards 
+ of certain file type we've been 
+ working on to open-source for this 
+ community being called by the name:
+ SPEKTRUM Creations Development Network.
+    
+ 
+  Some Programs Keep Me Learning
+                and
+  Some Programmers Know My Language
+             as well as,
+    Some People Know My Lyrics
+
+   ____________________________
+  ⎛\  Scripted ✚ Designed by:  \
+  ⎝⎠⎞   Christopher Johnson     ⎞
+    ⎥   SPEKTRUMCreations.com   ⎥
+    ⎠______ ¡We Want You! ______⎠ 
+   ⎛        Join S.C.D.N.      ⎛
+   ⎢  help code the spkml DOM  ⎝    
+   ⎝    ∗……………………………………………………………⸕…‥
+    ⋱…⋰…………………………………………………………………⋰
+                      
+   This is an .lpa file prototype 
+   containing the example code and 
+   structure for the file type for 
+   the album contents format being 
+   developed by SCDN, led by the 
+   project lead and supported by 
+   all members of the dev team...
+   
+   This file contains the mp3 file contents of:
+
+                ♪✈♫
+            "The Flight"
+             ==========
+
+By: Christopher Johnson, New Media Artisan:
+Founder of SPEKTRUM Creations from 1998-Present
+
+CJ is the owner/operator of the site domain:
+           SPEKTRUMCreations.com 
+               since: 2002
+               
+        SPKML.com is also his site.
+
+MIT License
+
+Copyright (c) 2020 Christopher Johnson / SPEKTRUM Creations / SCDN -- Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. tori 
+
+
 This "Long Play Album" WebApp is where we begin with long term goal of 
 creating the file-type (.LPA) as the definitive Digital-LongPlayAlbum 
 container to be developed as the standard means of distributing digital 
@@ -10,7 +80,11 @@ as essential to the musical world on the web...
 
 To view an example of the code we are developing, check out, 
 
-http://christopher.spkml.com/index.html
+https://christopher.spkml.com/
+
+https://christopher.spkml.com/beta4/
+
+
 
 Note: the actual mp3 file being used, contains chapters already and as the
 goal is to include forward and back buttons to skip between songs in the single
