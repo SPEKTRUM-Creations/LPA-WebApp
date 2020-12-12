@@ -47,22 +47,7 @@ the next and previous track buttons to the music player interface...
      The HomePage of the Development of SCDN projects, starting with this LPA-WebApp (LPA [Digital Long Play Album] File Type) will appear at the following link soon... 
      <a href="http://SCDN.SPEKTRUMCreations.com">SCDN.SPEKTRUMCreations.com</a>
 
-|--  Some Programs Keep Me Learning...  --|
-                              ______________________________
-                             / \   Coded & Designed by:     \
-                             \_,|  - Christopher Johnson -  |
-                                |    SPEKTRUMCreations.com  |
-                                |  ,--------------------------,
-                                \_/__________________________/
-                       
-                            This WebKit-WebApplication File-Bundle
-                                 Contains the album contents
-                                  Of Christopher Johnson's:
- 
-                                        "The Flight"
-
-                              Copyright (C) 2020 SPEKTRUMCreations
-                                     All Rights Reserved.
+Some Programs Keep Me Learning...
 
 Credits
 All songs written, performed and recorded by Christopher Johnson.  "The Flight" was recorded in Denver, Colorado in within three weeks in July and August of 2019 and was originally released on September 19, 2019.
@@ -94,7 +79,13 @@ LP ALBUM Container Software<br />Copyright © 2020 SPEKTRUM Creations
                 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
                 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
                 OTHER DEALINGS IN THE SOFTWARE.
+
 <code><a href="mailto:cj@spkml.com?subject=SCDN-Contact_GitHubEmail">
                 Ch̥̳͍̭̆̔̈ͅr̟̘̭̺͔̀i͍̼͉̼̯ͤ̓ͤ̐̚s̞̟͚͂̇t̙͓̞̝̽̏ͬo̼ͫ̇̚pͫ̇h̩̙̾̀̆e̙̖̳̣̳͛̐͐r̞̞͆͗ ͎̯͇̻̎̽ͫͬͅJ͓̙̜̄ͬôh̼͈̦̮͆ͤ̒̓͋ṋ̭ͫ͂ͭ̐s̠͇̝̮ͯo̙̦ͣ̍͌̔̋ͅnͦͦͪ͛ͤ,͚̱̼̖͗͋ͦ̍͋ ̹̮͖̣͌̂͐͂̚N͇̯͕͔̑ͩ͗̊ͅe͚͎̪w̻̰̠̹̫ͧͣ͌̓ͧ ͇̒̌ͦ̊M̫̰͚̐e̻͈d̹͙̭͈̰ͮ̈́͑ͦi͎̯̲̾́ͭa͌̄͆ͤ ̘̗̣͉̓A̱̠͔ͨr̰t̎͒̋̀i̪̞̻ṣ̬͈̞͕̄ạ͉̱̫̪̌͆͒n͇͚̣̘̈ ̮̼̦́͒̀-̪̂͋̽̓ ̟͓̣̂@͔̌̓̓ͣs̗̙͖͂̋ͦ͂͛ͅp̥ͦ̓̔ͫͩk̤̹̳̰̂́ͧ͗m͇̺l̔̓
 </a></code>  
-                |===============================================|
+
+                   Copyright (C) 2020 SPEKTRUMCreations
+                           All Rights Reserved.
+
+
+             |===============================================|
