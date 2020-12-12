@@ -18,7 +18,7 @@ file containing all of the album contents, it will come to pass that we will add
 the next and previous track buttons to the music player interface...
 
 
-
+<pre>
  ________________________________________________________________________
  __|____|____|____|____|____|_____|___|_____|_____|____|___|_____|____|__
  ___|____|_____|___|_____|____|_____|___/\_____|____|____|________|____|_
@@ -28,7 +28,7 @@ the next and previous track buttons to the music player interface...
  |____|____/_______  /_|____|__|_|____|___\\____/\_  /|_______\|____|____
  ___|____|____|____\/____|____|____|___|_\/___|____\/___|____\/___|____|_
  _|____|_____|____|_____|___|_______|_|______|__|______|__|_____|____|___
-        
+ </pre>       
  Note: The goal of this software’s development is to create a
   file type which acts as a container, that will be comprised of
   standardized and open-sourced code for use by anyone upon the
