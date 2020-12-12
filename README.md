@@ -58,7 +58,7 @@ the next and previous track buttons to the music player interface...
     Some Programmers Know My Language
              as well as,
     Some People Know My Lyrics
-
+<pre>
    ____________________________
   ⎛\  Scripted ✚ Designed by:  \
   ⎝⎠⎞   Christopher Johnson     ⎞
@@ -67,7 +67,7 @@ the next and previous track buttons to the music player interface...
    ⎛        Join S.C.D.N.      ⎛
    ⎢  help code the spkml DOM  ⎝
    \____________________________\
-                 
+</pre>                
    This is an .lpa file prototype 
    containing the example code and 
    structure for the file type for 
@@ -76,22 +76,41 @@ the next and previous track buttons to the music player interface...
    project lead and supported by 
    all members of the dev team...
    
-This file contains the mp3 file contents of:
+This contains the mp3 file of the album:
 
-                ♪✈♫
-            "The Flight"
-             ==========
-             
+ ✈ "The Flight" ✈
+ ♪ ▁▂▃▄▆██▆▄▃▂▁ ♫
+
+This MP3 file was converted from an M4B file 
+which was constructed from an AAC encoded
+m4a audio file which contains Chapter markers
+that are embedded in the final mp3 file in this
+repository, under the file 'The%20flight.mp3'. 
+this file can be imported into Apple Music or 
+other music players and will allow you to go
+to the previous track or the next track within
+the same MP3 file.
+
+Setting up an audio player within an HTML5
+webApp Will require custom interface with the
+following buttons and ui elements:
+
+* pause/play
+* stop
+* previous track
+* next track
+* seek backward
+* Seek forward
+* Volume slider
+* timeline transport control
+
+
 By: Christopher Johnson, New Media Artisan:
 Founder of SPEKTRUM Creations from 1998-Present
 
 CJ is the owner/operator of the site domain:
-           SPEKTRUMCreations.com 
-               since: 2002
-               
-        SPKML.com is also his site.
-        
-
+SPEKTRUMCreations.com : since: 2002
+SPKML.com is also his site : Since 2005.
 
   Note: The goal of this software’s development is to create a
   file type which acts as a container, that will be comprised of
@@ -118,18 +137,24 @@ All songs written, performed and recorded by Christopher Johnson.  "The Flight" 
 
 MIT License
 
-Copyright (c) 2020 Christopher Johnson / SPEKTRUM Creations / SCDN -- Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Copyright © 2020 Christopher Johnson / SPEKTRUM Creations / SCDN -- Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. tori 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 <code><a href="mailto:cj@spkml.com?subject=SCDN-Contact_GitHubEmail">
-                Ch̥̳͍̭̆̔̈ͅr̟̘̭̺͔̀i͍̼͉̼̯ͤ̓ͤ̐̚s̞̟͚͂̇t̙͓̞̝̽̏ͬo̼ͫ̇̚pͫ̇h̩̙̾̀̆e̙̖̳̣̳͛̐͐r̞̞͆͗ ͎̯͇̻̎̽ͫͬͅJ͓̙̜̄ͬôh̼͈̦̮͆ͤ̒̓͋ṋ̭ͫ͂ͭ̐s̠͇̝̮ͯo̙̦ͣ̍͌̔̋ͅnͦͦͪ͛ͤ,͚̱̼̖͗͋ͦ̍͋ ̹̮͖̣͌̂͐͂̚N͇̯͕͔̑ͩ͗̊ͅe͚͎̪w̻̰̠̹̫ͧͣ͌̓ͧ ͇̒̌ͦ̊M̫̰͚̐e̻͈d̹͙̭͈̰ͮ̈́͑ͦi͎̯̲̾́ͭa͌̄͆ͤ ̘̗̣͉̓A̱̠͔ͨr̰t̎͒̋̀i̪̞̻ṣ̬͈̞͕̄ạ͉̱̫̪̌͆͒n͇͚̣̘̈ ̮̼̦́͒̀-̪̂͋̽̓ ̟͓̣̂@͔̌̓̓ͣs̗̙͖͂̋ͦ͂͛ͅp̥ͦ̓̔ͫͩk̤̹̳̰̂́ͧ͗m͇̺l̔̓
-</a></code>  
+Ch̥̳͍̭̆̔̈ͅr̟̘̭̺͔̀i͍̼͉̼̯ͤ̓ͤ̐̚s̞̟͚͂̇t̙͓̞̝̽̏ͬo̼ͫ̇̚pͫ̇h̩̙̾̀̆e̙̖̳̣̳͛̐͐r̞̞͆͗ ͎̯͇̻̎̽ͫͬͅJ͓̙̜̄ͬôh̼͈̦̮͆ͤ̒̓͋ṋ̭ͫ͂ͭ̐s̠͇̝̮ͯo̙̦ͣ̍͌̔̋ͅnͦͦͪ͛ͤ</a>
 
-                   Copyright (C) 2020 SPEKTRUMCreations
+
+,͚̱̼̖͗͋ͦ̍͋ ̹̮͖̣͌̂͐͂̚N͇̯͕͔̑ͩ͗̊ͅe͚͎̪w̻̰̠̹̫ͧͣ͌̓ͧ ͇̒̌ͦ̊M̫̰͚̐e̻͈d̹͙̭͈̰ͮ̈́͑ͦi͎̯̲̾́ͭa͌̄͆ͤ ̘̗̣͉̓A̱̠͔ͨr̰t̎͒̋̀i̪̞̻ṣ̬͈̞͕̄ạ͉̱̫̪̌͆͒n͇͚̣̘̈ ̮̼̦́͒̀-̪̂͋̽̓
+
+
+ ̟͓̣̂@͔̌̓̓ͣs̗̙͖͂̋ͦ͂͛ͅp̥ͦ̓̔ͫͩk̤̹̳̰̂́ͧ͗m͇̺l̔̓
+</code>  
+
+                   Copyright © 2020 SPEKTRUMCreations
                            All Rights Reserved.
 
 
