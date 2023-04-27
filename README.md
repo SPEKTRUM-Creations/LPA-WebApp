@@ -35,9 +35,9 @@ as essential to the musical world on the web...
 
 To view an example of the code we are developing, check out, 
 
-https://christopher.spkml.com/
+https://spkml.app/wp-content/uploads/2023/04/TheFlight-LPA.0.9.7.1b-STABLE.html
 
-https://christopher.spkml.com/beta4/
+<iframe src="https://spkml.app/wp-content/uploads/2023/04/TheFlight-LPA.0.9.7.1b-STABLE.html" height="800px" width="420px" frameborder=“0px” border=“0” style=“frameborder:0px;border:0;scrolling:no;height:800px; width:420px; ”></iframe>
 
 Note: the actual mp3 file being used, contains chapters already and as the
 goal is to include forward and back buttons to skip between songs in the single
