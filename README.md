@@ -37,8 +37,6 @@ To view an example of the code we are developing, check out,
 
 https://spkml.app/wp-content/uploads/2023/04/TheFlight-LPA.0.9.7.1b-STABLE.html
 
-<iframe src="https://spkml.app/wp-content/uploads/2023/04/TheFlight-LPA.0.9.7.1b-STABLE.html" height="800px" width="420px" frameborder=“0px” border=“0” style=“frameborder:0px;border:0;scrolling:no;height:800px; width:420px; ”></iframe>
-
 Note: the actual mp3 file being used, contains chapters already and as the
 goal is to include forward and back buttons to skip between songs in the single
 file containing all of the album contents, it will come to pass that we will add
